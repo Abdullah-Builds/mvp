@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Weblink = aku-competition.streamlit.app
 # Cardiac Risk MVP
 
 ## Files
